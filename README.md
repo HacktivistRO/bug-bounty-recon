@@ -179,6 +179,8 @@ Pipe parameters into payloads for rapid XSS, SQLi, and LFI checks at scale.
 
 Real recon brings real rewards—let the crowd stay noisy while you remain effective.
 
+**Next Steps:** Feeling stuck of what to do once recon is done? Follow [this guide](https://github.com/HacktivistRO/Bug-Bounty-Wordlists/blob/master/how-to-start-bug-hunting.txt) for such situations.
+
 ---
 
 <p align="center">
