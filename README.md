@@ -1,6 +1,6 @@
 ## Namaste! 
 
-![Logo](https://github.com/user-attachments/assets/ce14e2ed-d195-43d6-8f89-eeb81fba33b0)
+![Logo](https://github.com/user-attachments/assets/259086bb-2022-4653-87e3-923ec1b2e9c9)
 
 ![Profile_Views](https://komarev.com/ghpvc/?username=HacktivistRO&style=for-the-badge)
 
